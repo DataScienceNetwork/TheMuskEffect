@@ -28,5 +28,6 @@ Can we predict Crypto market movement based on Elon Musk tweets.
 - [] Can we add Context
     - [] Better sentiment analysis
     - [] Crypto change just before tweet
+    - [] Check if sentiment score is right
 - [] Crypto value
     - [] Higher resolution than daily
